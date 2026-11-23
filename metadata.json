@@ -1,0 +1,8 @@
+{
+  "name": "Patkatha Studio — Video Script & Direction Writer",
+  "description": "Complete AI production script writer for YouTube Shorts (9:16) and Long-Form (16:9) videos with visual directions, camera framing, and Male/Female voice placement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
